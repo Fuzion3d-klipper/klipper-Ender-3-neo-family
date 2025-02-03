@@ -1,7 +1,7 @@
 # 🚀 Klipper para la Familia Ender 3 Neo – Firmware y Configuración  
 
 <p align="center">
-  <img src="ruta/a/tu/imagen.png" alt="Ender 3 Neo con Klipper" width="500"/>
+  <img src="neo.png" alt="Ender 3 Neo con Klipper" width="500"/>
 </p>
 
 ## 📌 ¿Qué encontrarás en este repositorio?  
