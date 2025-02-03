@@ -1,0 +1,31 @@
+Archivo de Firmware para Klipper  
+
+Máquina: Ender 3 Neo  
+Placa base: Creality 4.2.2 (versión silenciosa)  
+Procesador: STM32F103  
+
+Este firmware ha sido probado y validado, garantizando un rendimiento estable y 
+eficiente.  
+
+Especificaciones de compilación y configuración:  
+- MCU: STM32F103  
+- Bootloader: 28 KiB  
+- Comunicación serial: USART1 (PA10/PA9)  
+
+Notas:  
+El firmware fue creado y configurado por Fuzion 3D, cuidadosamente adaptado a los 
+parámetros específicos para asegurar un funcionamiento óptimo de la Ender 3 Neo
+con placa 4.2.2.  
+
+Recomendación: Sigue cuidadosamente las instrucciones para flashear el firmware 
+en tu impresora para evitar problemas o daños.  
+
+Conecta con Fuzion 3D:  
+- TikTok: https://www.tiktok.com/@fuzion3d
+- Instagram: https://www.instagram.com/fuzion3dcrea
+- YouTube: https://youtube.com/@fuzion3dcrea 
+- WhatsApp: https://chat.whatsapp.com/IHaUnmBsNPnJ1kDIenCrmT  
+
+Únete para compartir ideas, obtener soporte y mantenerte actualizado sobre los 
+últimos desarrollos.
+
