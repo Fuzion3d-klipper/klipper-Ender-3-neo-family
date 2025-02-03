@@ -1,4 +1,4 @@
-# 🚀 Klipper para la Familia Ender 3 Neo – Firmware y Configuración  
+# 🚀 Klipper para la Familia Ender 3 Neo – Firmware y CFG  
 
 <p align="center">
   <img src="neo.png" alt="Ender 3 Neo con Klipper" width="1000"/>
@@ -7,7 +7,7 @@
 ## 📌 ¿Qué encontrarás en este repositorio?  
 Este repositorio está diseñado para facilitar la instalación de **Klipper en toda la familia Ender 3 Neo de Creality**, garantizando compatibilidad con la placa original. No necesitas compilar nada, simplemente flashea el firmware y carga la configuración en Mainsail o Fluidd.  
 
-✔ **Firmware Klipper (`firmware.bin`) listo para flashear**  
+✔ **Firmware Klipper (`firmware.bin`) listo para flashear en la impresora**  
 ✔ **Archivo `printer.cfg` configurado para la familia Ender 3 Neo**  
 ✔ **Compatibilidad con Mainsail y Fluidd**  
 ✔ **Guía de instalación paso a paso**  
