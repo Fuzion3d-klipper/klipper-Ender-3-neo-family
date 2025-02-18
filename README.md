@@ -64,6 +64,12 @@ Esta guía te ayudará a instalar **Klipper, Moonraker y la interfaz web Mainsai
 
 ¡Únete a la comunidad y comparte tus creaciones con nosotros! 🚀🔥
 
+## ☕ ¡Apoya al Creador!  
+
+Si este proyecto te ha sido útil y quieres contribuir a futuros desarrollos, considera invitarme a un café. Tu apoyo ayuda a mejorar y mantener este contenido disponible para toda la comunidad.  
+
+[![Apoya al creador](https://img.buymeacoffee.com/button-api/?text=Apoya%20al%20creador&emoji=&slug=fuzion3d&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/fuzion3d)
+
 <a href="https://www.buymeacoffee.com/fuzion3d"><img src="https://img.buymeacoffee.com/button-api/?text=Apoya al creador&emoji=&slug=fuzion3d&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 **Optimiza tu Ender 3 Neo con Klipper y lleva tu impresión 3D al siguiente nivel.** 🚀  
